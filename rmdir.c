@@ -1,14 +1,12 @@
 #include "types.h"
 #include "stat.h"
 #include "user.h"
-#include "fs.h"
 #include "fcntl.h"
 
 int
 main(int argc, char *argv[])
 {
   int fd,i;
-  //struct dirent de;
   struct stat st;
 
   if(argc < 2){
