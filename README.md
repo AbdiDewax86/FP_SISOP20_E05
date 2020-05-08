@@ -177,5 +177,5 @@ main(int argc, char *argv[])
 ```
 Implementasi dari soal ini ialah dengan mencek command dari user.
 Jika command -w(n), maka kita akan membuka file yang diberikan dan print tulisannya sebanyak n huruf setiap barisnya.
-Jika command -b(n), maka output yang dikeluarkan sama dengan command -w
+Jika command -b(n), maka output yang dikeluarkan sama dengan command -w.
 Jika command -s, maka kita akan membuka file yang diberikan dan print perbaris nya berisikan 1 kata.
